@@ -103,7 +103,7 @@ export default function Hero() {
         </div>
       </div>
 
-      {/* <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 12 }}>
+      <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 12 }}>
         {[
           { num: "3.5+", label: "Years experience" },
           { num: "500+", label: "Users supported" },
@@ -142,7 +142,7 @@ export default function Hero() {
             </div>
           </div>
         ))}
-      </div> */}
+      </div>
     </section>
   );
 }
