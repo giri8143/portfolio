@@ -93,7 +93,7 @@ export default function Hero() {
             Get in touch
           </a>
           <a
-            href="www.linkedin.com/in/giri-dontala-19b148198"
+            href="https://www.linkedin.com/in/giri-dontala-19b148198"
             className="btn-outline"
             target="_blank"
             rel="noreferrer"
